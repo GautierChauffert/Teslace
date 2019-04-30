@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Level/Scenes/MainMenu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Level/Scenes/ChooseControllers.unity
+    guid: 908c969abdaac24499f806a847c1571e
+  - enabled: 1
+    path: Assets/Level/Scenes/AlphaLobby.unity
+    guid: b0010ba91492c5d47a71ff02748215c9
+  - enabled: 1
+    path: Assets/Level/Scenes/SpaceJunkLobby.unity
+    guid: 09b41f4f0b1f772478b0f6bf91a1ba32
+  - enabled: 1
+    path: Assets/Level/Scenes/AlphaLevel.unity
+    guid: f4ca7dd99fe761b4c9b0519f149e5e4b
+  - enabled: 1
+    path: Assets/Level/Scenes/SpaceJunkLevel.unity
+    guid: d88b7a3f461f2f841b3040ad0ddd16c6
+  m_configObjects: {}

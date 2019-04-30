@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: dd95990ea2678ef4aa95814bc3a6a50d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - selected: {instanceID: 0}
+  - NotSelected: {instanceID: 0}
+  - playerNamePlaceHolder: {instanceID: 0}
+  - controllerImage: {instanceID: 0}
+  - keyboardSprite: {fileID: 21300000, guid: 30e2cacb16ad87947bd0893e921a2ee6, type: 3}
+  - controllerSprite: {fileID: 21300002, guid: 30e2cacb16ad87947bd0893e921a2ee6, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

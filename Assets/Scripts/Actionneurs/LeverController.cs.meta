@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 244935acb925ca040b9432cd92cb1678
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - actionneurOn: {fileID: 1277946014490238, guid: e37ff88caef5b0a4ba6fb0be823339d6,
+      type: 2}
+  - actionneurOff: {fileID: 1560571813177970, guid: d1e5082798e53584e8a57a0cccd931df,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
